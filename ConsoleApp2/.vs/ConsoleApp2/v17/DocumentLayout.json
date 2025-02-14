@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|ConsoleApp2.csproj|c:\\users\\abhishek\\source\\repos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|c:\\users\\abhishek\\source\\repos\\consoleapp2\\largestno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|solutionrelative:largestno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|c:\\users\\abhishek\\source\\repos\\consoleapp2\\prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|solutionrelative:prime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|c:\\users\\abhishek\\source\\repos\\consoleapp2\\duplicateno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5740CA4F-FF90-474A-895B-C2E4DE8C5FBE}|CSharpCore.csproj|solutionrelative:duplicateno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prime.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\Prime.cs",
+              "RelativeDocumentMoniker": "Prime.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\Prime.cs",
+              "RelativeToolTip": "Prime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:31:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuplicateNo.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\DuplicateNo.cs",
+              "RelativeDocumentMoniker": "DuplicateNo.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\DuplicateNo.cs",
+              "RelativeToolTip": "DuplicateNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:54:24.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "largestNo.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\largestNo.cs",
+              "RelativeDocumentMoniker": "largestNo.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\largestNo.cs",
+              "RelativeToolTip": "largestNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:41:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:13:36.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

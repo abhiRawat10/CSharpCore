@@ -1,0 +1,4 @@
+C:\Users\Abhishek\source\repos\ConsoleApp2\obj\Debug\CSharpCore.csproj.AssemblyReference.cache
+C:\Users\Abhishek\source\repos\ConsoleApp2\obj\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Abhishek\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
