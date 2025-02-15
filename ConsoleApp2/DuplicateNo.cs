@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace cSahrpCore
+namespace cSharpCore
 {
     internal class DuplicateNo
     {
