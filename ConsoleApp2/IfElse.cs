@@ -4,7 +4,7 @@ using System.Text;
 
 namespace cSharpCore
 {
-    internal class Prime
+    internal class IfElse
     {
         public static void Entry()
         {
