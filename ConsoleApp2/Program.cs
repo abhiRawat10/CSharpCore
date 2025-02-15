@@ -25,6 +25,14 @@ namespace cSharpCore
             {
                 Prime.Entry();
             }
+            else if (n == "4")
+            {
+                Armstrong.Entry();
+            }   
+            else if (n == "5")
+            {
+                IfElse.Entry();
+            }
             else
             {
                 Console.WriteLine("Invalid Input");
