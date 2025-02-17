@@ -8,31 +8,41 @@
             Console.WriteLine("Enter the first number");
             int a = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter the second number");
-            int b = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter the second number");
+            //int b = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter Operation");
-            string operation = Console.ReadLine();
+            //Console.WriteLine("Enter Operation");
+            //string operation = Console.ReadLine();
 
-            switch(operation)
+            while (true)
             {
-                case "+":
-                    Console.WriteLine("The sum is: " + (a + b));
-                    break;
-                case "-":
-                    Console.WriteLine("The difference is: " + (a - b));
-                    break;
-                case "*":
-                    Console.WriteLine("The product is: " + (a * b));
-                    break;
-                case "/":
-                    Console.WriteLine("The quotient is: " + (a / b));
-                    break;
-                default:
-                    Console.WriteLine("Invalid Operation");
-                    break;
+                string operation = Console.ReadLine();
+
+                int b = Convert.ToInt32(Console.ReadLine());
+
+                int t = 0;
+
+                switch (operation)
+                {
+                    case "+":
+                        t = a + b;
+                        break;
+                    case "-":
+                        t = a - b;
+                        break;
+                    case "*":
+                        t = a * b;
+                        break;
+                    case "/":
+                        t = a / b;
+                        break;
+                    default:
+                        Console.WriteLine("Invalid Operation");
+                        break;
+                }
+                Console.WriteLine("current total "+t);
+                a = t;
             }
-            Console.ReadKey();
         }
     }
 }
