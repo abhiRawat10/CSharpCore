@@ -1,0 +1,15 @@
+C:\Users\Abhishek\Desktop\c#\1_Calculator\bin\Debug\net6.0\1_Calculator.exe
+C:\Users\Abhishek\Desktop\c#\1_Calculator\bin\Debug\net6.0\1_Calculator.deps.json
+C:\Users\Abhishek\Desktop\c#\1_Calculator\bin\Debug\net6.0\1_Calculator.runtimeconfig.json
+C:\Users\Abhishek\Desktop\c#\1_Calculator\bin\Debug\net6.0\1_Calculator.dll
+C:\Users\Abhishek\Desktop\c#\1_Calculator\bin\Debug\net6.0\1_Calculator.pdb
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.AssemblyInfo.cs
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.sourcelink.json
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.dll
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\refint\1_Calculator.dll
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.pdb
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\1_Calculator.genruntimeconfig.cache
+C:\Users\Abhishek\Desktop\c#\1_Calculator\obj\Debug\net6.0\ref\1_Calculator.dll
