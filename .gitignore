@@ -1,0 +1,60 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+out/
+
+# .NET Core / .NET 6+
+project.lock.json
+project.assets.json
+global.json
+**/Properties/launchSettings.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+NUGET_BACKUP/
+
+# Entity Framework Migrations
+Migrations/
+
+# Logs & Debugging
+*.log
+*.tlog
+*.cache
+*.pdb
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# ReSharper
+*.DotSettings.user
+*.dotCover
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~$*
+
+# Ignore secrets (Make sure to manage secrets securely)
+secrets.json
+
+# Publish output
+publish/
+wwwroot/
+
+# macOS / Linux
+.DS_Store
+._*
+Thumbs.db
+`
